@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Code Contains
 
-You can use the [editor on GitHub](https://github.com/freakyIdiot/codecontains.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Code Contains is a Software-as-a-Solution – SaaS startup that focuses on developing software solutions. What makes it stand out from the rest comes down to its multiple impressive features. Do you know users don’t usually use an app or website regularly enough? They change their apps or site after only three or four iterations. A major reason is the lack of attention and that’s why most developers are unable to build scalable businesses. Code Contains is trying to change that!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Design
 
-### Markdown
+A designer is someone who takes a mundane task and makes it pleasing. And sometimes, more efficient. For a designer, the form is something that goes with a function. Code Contains will have awesome developers to make the world more efficient, more beautiful, more easy to use and to know/understand.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Development
 
-```markdown
-Syntax highlighted code block
+Development is one of the steps in the new product development. After idea generation and screening, concept development is the detail version of idea, explained keeping in mind consumers' needs.Code Contains will do that!
 
-# Header 1
-## Header 2
-### Header 3
+### Marketing
 
-- Bulleted
-- List
+We increases visibility of your brand. Develops lasting relationships with your audience. Improves brand awareness and recognition. Creates loyalty and trust, with both your current customers and prospects.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freakyIdiot/codecontains.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
